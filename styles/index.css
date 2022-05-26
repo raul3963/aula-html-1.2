@@ -71,6 +71,18 @@ a:hover {
     margin-right: 0px;
 }
 
+.section-1 {
+    display: flex;
+}
+
+.img-section-1 {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
 .footer-menu {
     display: flex;
     align-items: center;
